@@ -1,0 +1,289 @@
+{"open": {"baza": "conference", "login": "postgres", "password": "student"}}
+{"organizer": {"secret": "d8578edf8458ce06fbc5bb76a58c5ca4", "newlogin": "org", "newpassword": "qwerty"}}
+{"event": {"login": "org", "password": "qwerty", "eventname": "ev0", "start_timestamp": "2017-01-01", "end_timestamp": "2017-08-05"}}
+{"event": {"login": "org", "password": "qwerty", "eventname": "ev1", "start_timestamp": "2017-01-01", "end_timestamp": "2017-08-05"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr0", "newpassword": "qwerty0"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr1", "newpassword": "qwerty1"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr2", "newpassword": "qwerty2"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr3", "newpassword": "qwerty3"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr4", "newpassword": "qwerty4"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr5", "newpassword": "qwerty5"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr6", "newpassword": "qwerty6"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr7", "newpassword": "qwerty7"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr8", "newpassword": "qwerty8"}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr9", "newpassword": "qwerty9"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "talk#u1#t0", "title": "title#u1#t0", "start_timestamp": "2017-01-01 02:15:00", "room": "0", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "talk#u1#t1", "title": "title#u1#t1", "start_timestamp": "2017-01-01 03:15:00", "room": "1", "initial_evaluation": "5", "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr2", "talk": "talk#u2#t0", "title": "title#u2#t0", "start_timestamp": "2017-01-01 04:15:00", "room": "0", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr2", "talk": "talk#u2#t1", "title": "title#u2#t1", "start_timestamp": "2017-01-01 05:15:00", "room": "1", "initial_evaluation": "5", "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr4", "talk": "talk#u4#t0", "title": "title#u4#t0", "start_timestamp": "2017-01-01 08:15:00", "room": "0", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr4", "talk": "talk#u4#t1", "title": "title#u4#t1", "start_timestamp": "2017-01-01 09:15:00", "room": "1", "initial_evaluation": "5", "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr5", "talk": "talk#u5#t0", "title": "title#u5#t0", "start_timestamp": "2017-01-01 10:15:00", "room": "0", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr5", "talk": "talk#u5#t1", "title": "title#u5#t1", "start_timestamp": "2017-01-01 11:15:00", "room": "1", "initial_evaluation": "5", "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr7", "talk": "talk#u7#t0", "title": "title#u7#t0", "start_timestamp": "2017-01-01 14:15:00", "room": "0", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr7", "talk": "talk#u7#t1", "title": "title#u7#t1", "start_timestamp": "2017-01-01 15:15:00", "room": "1", "initial_evaluation": "5", "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr8", "talk": "talk#u8#t0", "title": "title#u8#t0", "start_timestamp": "2017-01-01 16:15:00", "room": "0", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr8", "talk": "talk#u8#t1", "title": "title#u8#t1", "start_timestamp": "2017-01-01 17:15:00", "room": "1", "initial_evaluation": "5", "eventname": "ev1"}}
+{"register_user_for_event": {"login": "usr0", "password": "qwerty0", "eventname": "ev0"}}
+{"register_user_for_event": {"login": "usr1", "password": "qwerty1", "eventname": "ev1"}}
+{"register_user_for_event": {"login": "usr2", "password": "qwerty2", "eventname": "ev0"}}
+{"register_user_for_event": {"login": "usr3", "password": "qwerty3", "eventname": "ev1"}}
+{"register_user_for_event": {"login": "usr4", "password": "qwerty4", "eventname": "ev0"}}
+{"register_user_for_event": {"login": "usr5", "password": "qwerty5", "eventname": "ev1"}}
+{"register_user_for_event": {"login": "usr6", "password": "qwerty6", "eventname": "ev0"}}
+{"register_user_for_event": {"login": "usr7", "password": "qwerty7", "eventname": "ev1"}}
+{"register_user_for_event": {"login": "usr8", "password": "qwerty8", "eventname": "ev0"}}
+{"register_user_for_event": {"login": "usr9", "password": "qwerty9", "eventname": "ev1"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr1"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr2"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr3"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr4"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr5"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr6"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr7"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr8"}}
+{"friends": {"login1": "usr0", "password": "qwerty0", "login2": "usr9"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr2"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr3"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr4"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr5"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr6"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr7"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr8"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr9"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr3"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr4"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr5"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr6"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr7"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr8"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr9"}}
+{"friends": {"login1": "usr3", "password": "qwerty3", "login2": "usr4"}}
+{"friends": {"login1": "usr3", "password": "qwerty3", "login2": "usr5"}}
+{"friends": {"login1": "usr3", "password": "qwerty3", "login2": "usr6"}}
+{"friends": {"login1": "usr3", "password": "qwerty3", "login2": "usr7"}}
+{"friends": {"login1": "usr3", "password": "qwerty3", "login2": "usr8"}}
+{"friends": {"login1": "usr3", "password": "qwerty3", "login2": "usr9"}}
+{"friends": {"login1": "usr4", "password": "qwerty4", "login2": "usr5"}}
+{"friends": {"login1": "usr4", "password": "qwerty4", "login2": "usr6"}}
+{"friends": {"login1": "usr4", "password": "qwerty4", "login2": "usr7"}}
+{"friends": {"login1": "usr4", "password": "qwerty4", "login2": "usr8"}}
+{"friends": {"login1": "usr4", "password": "qwerty4", "login2": "usr9"}}
+{"friends": {"login1": "usr5", "password": "qwerty5", "login2": "usr6"}}
+{"friends": {"login1": "usr5", "password": "qwerty5", "login2": "usr7"}}
+{"friends": {"login1": "usr5", "password": "qwerty5", "login2": "usr8"}}
+{"friends": {"login1": "usr5", "password": "qwerty5", "login2": "usr9"}}
+{"friends": {"login1": "usr6", "password": "qwerty6", "login2": "usr7"}}
+{"friends": {"login1": "usr6", "password": "qwerty6", "login2": "usr8"}}
+{"friends": {"login1": "usr6", "password": "qwerty6", "login2": "usr9"}}
+{"friends": {"login1": "usr7", "password": "qwerty7", "login2": "usr8"}}
+{"friends": {"login1": "usr7", "password": "qwerty7", "login2": "usr9"}}
+{"friends": {"login1": "usr8", "password": "qwerty8", "login2": "usr9"}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u1#t0", "rating": 3}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u1#t0", "rating": 3}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u1#t0", "rating": 3}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u1#t0", "rating": 3}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u1#t0", "rating": 3}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u1#t1", "rating": 3}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u1#t1", "rating": 3}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u1#t1", "rating": 3}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u1#t1", "rating": 3}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u1#t1", "rating": 3}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u2#t0"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u2#t0", "rating": 3}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u2#t0"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u2#t0", "rating": 3}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u2#t0"}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u2#t0", "rating": 3}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u2#t0"}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u2#t0", "rating": 3}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u2#t0"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u2#t0", "rating": 3}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u2#t1"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u2#t1", "rating": 3}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u2#t1"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u2#t1", "rating": 3}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u2#t1"}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u2#t1", "rating": 3}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u2#t1"}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u2#t1", "rating": 3}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u2#t1"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u2#t1", "rating": 3}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u4#t0"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u4#t0", "rating": 3}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u4#t0"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u4#t0", "rating": 3}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u4#t0"}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u4#t0", "rating": 3}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u4#t0"}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u4#t0", "rating": 3}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u4#t0"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u4#t0", "rating": 3}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u4#t1"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u4#t1", "rating": 3}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u4#t1"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u4#t1", "rating": 3}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u4#t1"}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u4#t1", "rating": 3}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u4#t1"}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u4#t1", "rating": 3}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u4#t1"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u4#t1", "rating": 3}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u5#t0", "rating": 3}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u5#t0", "rating": 3}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u5#t0", "rating": 3}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u5#t0", "rating": 3}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u5#t0", "rating": 3}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u5#t1", "rating": 3}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u5#t1", "rating": 3}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u5#t1", "rating": 3}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u5#t1", "rating": 3}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u5#t1", "rating": 3}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u7#t0", "rating": 3}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u7#t0", "rating": 3}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u7#t0", "rating": 3}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u7#t0", "rating": 3}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u7#t0", "rating": 3}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u7#t1", "rating": 3}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u7#t1", "rating": 3}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u7#t1", "rating": 3}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u7#t1", "rating": 3}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u7#t1", "rating": 3}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u8#t0"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u8#t0", "rating": 3}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u8#t0"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u8#t0", "rating": 3}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u8#t0"}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u8#t0", "rating": 3}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u8#t0"}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u8#t0", "rating": 3}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u8#t0"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u8#t0", "rating": 3}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u8#t1"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u8#t1", "rating": 3}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u8#t1"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u8#t1", "rating": 3}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u8#t1"}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u8#t1", "rating": 3}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u8#t1"}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u8#t1", "rating": 3}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u8#t1"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u8#t1", "rating": 3}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t0", "title": "title#u1#t0", "start_timestamp": "2017-01-01 05:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t0"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t1", "title": "title#u1#t1", "start_timestamp": "2017-01-01 06:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t1", "title": "title#u1#t1", "start_timestamp": "2017-01-01 06:15:00", "room": "958", "initial_evaluation": "5", "eventname": ""}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t2", "title": "title#u1#t2", "start_timestamp": "2017-01-01 07:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t2"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t3", "title": "title#u1#t3", "start_timestamp": "2017-01-01 08:15:00"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t4", "title": "title#u1#t4", "start_timestamp": "2017-01-01 09:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t4"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t5", "title": "title#u1#t5", "start_timestamp": "2017-01-01 10:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t5", "title": "title#u1#t5", "start_timestamp": "2017-01-01 10:15:00", "room": "962", "initial_evaluation": "5", "eventname": ""}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t6", "title": "title#u1#t6", "start_timestamp": "2017-01-01 11:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t6"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t7", "title": "title#u1#t7", "start_timestamp": "2017-01-01 12:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t7", "title": "title#u1#t7", "start_timestamp": "2017-01-01 12:15:00", "room": "964", "initial_evaluation": "5", "eventname": ""}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t8", "title": "title#u1#t8", "start_timestamp": "2017-01-01 13:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t8"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t9", "title": "title#u1#t9", "start_timestamp": "2017-01-01 14:15:00"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t10", "title": "title#u1#t10", "start_timestamp": "2017-01-01 15:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t10"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t11", "title": "title#u1#t11", "start_timestamp": "2017-01-01 16:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t11", "title": "title#u1#t11", "start_timestamp": "2017-01-01 16:15:00", "room": "968", "initial_evaluation": "5", "eventname": ""}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t12", "title": "title#u1#t12", "start_timestamp": "2017-01-01 17:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t12"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t13", "title": "title#u1#t13", "start_timestamp": "2017-01-01 18:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t13", "title": "title#u1#t13", "start_timestamp": "2017-01-01 18:15:00", "room": "970", "initial_evaluation": "5", "eventname": ""}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t14", "title": "title#u1#t14", "start_timestamp": "2017-01-01 19:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t14"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t15", "title": "title#u1#t15", "start_timestamp": "2017-01-01 20:15:00"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t16", "title": "title#u1#t16", "start_timestamp": "2017-01-01 21:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t16"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t17", "title": "title#u1#t17", "start_timestamp": "2017-01-01 22:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t17", "title": "title#u1#t17", "start_timestamp": "2017-01-01 22:15:00", "room": "974", "initial_evaluation": "5", "eventname": ""}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t18", "title": "title#u1#t18", "start_timestamp": "2017-01-01 23:15:00"}}
+{"reject": {"login": "org", "password": "qwerty", "talk": "ptalk#u1#t18"}}
+{"proposal": {"login": "usr1", "password": "qwerty1", "talk": "ptalk#u1#t19", "title": "title#u1#t19", "start_timestamp": "2017-01-02 00:15:00"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr1", "talk": "ptalk#u1#t19", "title": "title#u1#t19", "start_timestamp": "2017-01-02 00:15:00", "room": "976", "initial_evaluation": "5", "eventname": ""}}
+{"user": {"login": "org", "password": "qwerty", "newlogin": "usr15", "newpassword": "qwerty15"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr15", "talk": "talk#u15#t0", "title": "title#u15#t0", "start_timestamp": "2017-08-01 00:15:00", "room": "0", "initial_evaluation": 5, "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr15", "talk": "talk#u15#t1", "title": "title#u15#t1", "start_timestamp": "2017-08-01 01:15:00", "room": "1", "initial_evaluation": 5, "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr15", "talk": "talk#u15#t2", "title": "title#u15#t2", "start_timestamp": "2017-08-01 02:15:00", "room": "2", "initial_evaluation": 5, "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr15", "talk": "talk#u15#t3", "title": "title#u15#t3", "start_timestamp": "2017-08-01 03:15:00", "room": "3", "initial_evaluation": 5, "eventname": "ev1"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr15", "talk": "talk#u15#t4", "title": "title#u15#t4", "start_timestamp": "2017-08-01 04:15:00", "room": "4", "initial_evaluation": 4, "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty", "speakerlogin": "usr15", "talk": "talk#u15#t5", "title": "title#u15#t5", "start_timestamp": "2017-08-01 05:15:00", "room": "5", "initial_evaluation": 3, "eventname": "ev1"}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u15#t0"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u15#t0", "rating": 6}}
+{"attendance": {"login": "usr1", "password": "qwerty1", "talk": "talk#u15#t0"}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u15#t0", "rating": 6}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u15#t0"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u15#t0", "rating": 6}}
+{"attendance": {"login": "usr3", "password": "qwerty3", "talk": "talk#u15#t0"}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u15#t0", "rating": 6}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u15#t2", "rating": 10}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u15#t2", "rating": 10}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u15#t2", "rating": 10}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u15#t2", "rating": 10}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u15#t1"}}
+{"evaluation": {"login": "usr0", "password": "qwerty0", "talk": "talk#u15#t1", "rating": 6}}
+{"attendance": {"login": "usr1", "password": "qwerty1", "talk": "talk#u15#t1"}}
+{"evaluation": {"login": "usr1", "password": "qwerty1", "talk": "talk#u15#t1", "rating": 6}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u15#t1"}}
+{"evaluation": {"login": "usr2", "password": "qwerty2", "talk": "talk#u15#t1", "rating": 6}}
+{"attendance": {"login": "usr3", "password": "qwerty3", "talk": "talk#u15#t1"}}
+{"evaluation": {"login": "usr3", "password": "qwerty3", "talk": "talk#u15#t1", "rating": 6}}
+{"evaluation": {"login": "usr4", "password": "qwerty4", "talk": "talk#u15#t3", "rating": 10}}
+{"evaluation": {"login": "usr5", "password": "qwerty5", "talk": "talk#u15#t3", "rating": 10}}
+{"evaluation": {"login": "usr6", "password": "qwerty6", "talk": "talk#u15#t3", "rating": 10}}
+{"evaluation": {"login": "usr7", "password": "qwerty7", "talk": "talk#u15#t3", "rating": 10}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u15#t0"}}
+{"evaluation": {"login": "usr8", "password": "qwerty8", "talk": "talk#u15#t0", "rating": 7}}
+{"attendance": {"login": "usr9", "password": "qwerty9", "talk": "talk#u15#t2"}}
+{"evaluation": {"login": "usr9", "password": "qwerty9", "talk": "talk#u15#t2", "rating": 6}}
+{"user_plan": {"login": "usr1", "limit": 100}}
+{"day_plan": {"timestamp": "2017-08-01"}}
+{"best_talks": {"start_timestamp": "2017-01-01 00:00:00", "end_timestamp": "2017-09-01 23:59:59", "limit": 2, "all": 1}}
+{"best_talks": {"start_timestamp": "2017-01-01 00:00:00", "end_timestamp": "2017-09-01 23:59:59", "limit": 2, "all": 0}}
+{"best_talks": {"start_timestamp": "2017-02-01 00:00:00", "end_timestamp": "2017-09-01 23:59:59", "limit": 0, "all": 1}}
+{"best_talks": {"start_timestamp": "2017-02-01 00:00:00", "end_timestamp": "2017-09-01 23:59:59", "limit": 0, "all": 0}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr0", "password": "qwerty0", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr1", "password": "qwerty1", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr1", "password": "qwerty1", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr2", "password": "qwerty2", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr3", "password": "qwerty3", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr4", "password": "qwerty4", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr5", "password": "qwerty5", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr5", "password": "qwerty5", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr6", "password": "qwerty6", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr7", "password": "qwerty7", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr7", "password": "qwerty7", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr8", "password": "qwerty8", "talk": "talk#u15#t5"}}
+{"attendance": {"login": "usr9", "password": "qwerty9", "talk": "talk#u15#t4"}}
+{"attendance": {"login": "usr9", "password": "qwerty9", "talk": "talk#u15#t5"}}
+{"most_popular_talks": {"start_timestamp": "2017-01-01 00:00:00", "end_timestamp": "2017-09-01 23:59:59", "limit": 2}}
+{"attended_talks": {"login": "usr3", "password": "qwerty3"}}
+{"rejected_talks": {"login": "usr1", "password": "qwerty1"}}
+{"proposals": {"login": "org", "password": "qwerty"}}
+{"friends_talks": {"login": "usr2", "password": "qwerty2", "start_timestamp": "2017-01-01 03:00:00", "end_timestamp": "2017-01-01 23:59:59", "limit": 10}}
+{"friends_events": {"login": "usr2", "password": "qwerty2", "eventname": "ev1"}}
+{"friends": {"login1": "usr1", "password": "qwerty1", "login2": "usr2"}}
+{"friends_talks": {"login": "usr2", "password": "qwerty2", "start_timestamp": "2017-01-01 03:00:00", "end_timestamp": "2017-01-01 23:59:59", "limit": 10}}
+{"friends_events": {"login": "usr2", "password": "qwerty2", "eventname": "ev1"}}
+{"friends": {"login1": "usr2", "password": "qwerty2", "login2": "usr1"}}
+{"friends_talks": {"login": "usr2", "password": "qwerty2", "start_timestamp": "2017-01-01 03:00:00", "end_timestamp": "2017-01-01 23:59:59", "limit": 10}}
+{"friends_events": {"login": "usr2", "password": "qwerty2", "eventname": "ev1"}}
+{"recommended_talks": {"login": "usr2", "password": "qwerty2", "start_timestamp": "2017-01-01 00:00:00", "end_timestamp": "2017-01-01 23:59:59", "limit": 2}}
+{"recommended_talks": {"login": "usr2", "password": "qwerty3", "start_timestamp": "2017-01-03 00:00:00", "end_timestamp": "2017-01-06 23:59:59", "limit": 10}}
+{"talk": {"login": "usr1", "password": "qwerty1", "speakerlogin": "usr1", "talk": "talk#u1#t2", "title": "title#u1#t2", "start_timestamp": "2017-01-01 01:15:00", "room": "205", "initial_evaluation": "5", "eventname": "ev0"}}
+{"talk": {"login": "org", "password": "qwerty1", "speakerlogin": "usr1", "talk": "talk#u1#t2", "title": "title#u1#t2", "start_timestamp": "2017-01-01 01:15:00", "room": "205", "initial_evaluation": "5", "eventname": "ev0"}}
+{"user_plan": {"login": "usr9876543231213", "limit": 5}}
+{"register_user_for_event": {"login": "usr3", "password": "qwerty3", "eventname": "ev7"}}
+{"register_user_for_event": {"login": "'; DROP SCHEMA PUBLIC cascade; SELECT 'ABCD", "password": "qwerty3", "eventname": "ev7"}}
+{"day_plan": {"timestamp": "1900-01-01'; DROP SCHEMA PUBLIC cascade; SELECT 'ABCD"}}
+quit
